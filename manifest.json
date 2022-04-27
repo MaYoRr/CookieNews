@@ -92,6 +92,5 @@
 	"RustClient_Data/Managed/UnityEngine.VRModule.dll":"c80966204cd5eb9f13287ea9abec1856",
 	"RustClient_Data/Managed/UnityEngine.WindModule.dll":"5998c523b02b5bf06f65cdb6cb8acf86",
 	"RustClient_Data/Managed/UnityEngine.XRModule.dll":"c0e3549b20eaacd8f6712a7211077160",
-	"RustClient_Data/Managed/websocket-sharp.dll":"ff2e9baad60f10bf633f89af3fa3522c",
-	"steam_appid.txt":"6ea2ef7311b482724a9b7b0bc0dd85c6",
+	"RustClient_Data/Managed/websocket-sharp.dll":"ff2e9baad60f10bf633f89af3fa3522c", 
 }
