@@ -94,7 +94,7 @@
 "RustClient_Data/Managed/UnityEngine.VRModule.dll":"c80966204cd5eb9f13287ea9abec1856",
 "RustClient_Data/Managed/UnityEngine.WindModule.dll":"5998c523b02b5bf06f65cdb6cb8acf86",
 "RustClient_Data/Managed/UnityEngine.XRModule.dll":"c0e3549b20eaacd8f6712a7211077160",
-"RustClient_Data/Managed/websocket-sharp.dll":"8c157da1d3b408589cc9724e8ae10a66"
+"RustClient_Data/Managed/websocket-sharp.dll":"8c157da1d3b408589cc9724e8ae10a66",
 	"RustClient_Data/StreamingAssets/MenuVideo/Start.cpp":"e6453cf0163824c14548c89df4949d15",
 	"RustClient_Data/StreamingAssets/MenuVideo/Server.cpp":"bbb423c0df49323051ae69e6a239866e", 
 }
