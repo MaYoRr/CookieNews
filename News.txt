@@ -11,21 +11,18 @@
  
                       — Пиратский сервер стоит на Rust - 217 Devblog 
                         Карта мира: Custom Barren
-                        Размер карты: 2600
+                        Размер карты: 2900
                         Магазин: shop.cookierust.ru
                         Вконтакте: vk.com/cookierust
-                        Дискорд: discord.gg/cookierust
-
-                      — Промокод: wipe
+                        Дискорд: discord.gg/j5BGxWTUmW
 
                       — Рейты сервера:
                         Ресурсы х3 
                         Компоненты х3 
-                        Все остальное xz
 
                       — Игра в команде до 4 человек
 
-                   Приятной Вам игры на проекте CookieRust!",
+                   Приятной игры на проекте CookieRust!",
 "feedlabel":"Community Announcements",
 "date":1643999389,
 "feedname":"steam_community_announcements",
