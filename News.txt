@@ -9,7 +9,7 @@
 "contents":"[img]https://cdn.discordapp.com/attachments/962748116107419728/967872901246242877/BONK1_.png[/img]
  
  
-                      — Пиратский сервер стоит на Rust - 217 Devblog 
+                      󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 󠁧 — Пиратский сервер стоит на Rust - 217 Devblog 
                         Карта мира: Custom Barren
                         Размер карты: 2900
                         Магазин: shop.cookierust.ru
