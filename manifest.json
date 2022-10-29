@@ -1,11 +1,11 @@
 { 
-        "CLauncher.exe":"d90c2d54eeef7109ace75f598391fca0",
+        "CLauncher.exe":"2a03c7f63784f54f923d89a87d8b308a",
 
 	"RustClient_Data/Managed/ApexAI.dll":"ec4327c1ce10dd142d40f0e7fdb68c52",
 	"RustClient_Data/Managed/ApexSerialization.dll":"5c19e6ac47c671071fdb07e08437450c",
 	"RustClient_Data/Managed/ApexShared.dll":"39275b17a4ffd672a676f35105a3a9d3",
 	"RustClient_Data/Managed/Assembly-CSharp-firstpass.dll":"dab98150139d1bf3b271747dad959d55",
-	"RustClient_Data/Managed/Assembly-CSharp.dll":"214fecff4223ff5b3d6ad7f4261f7978",
+	"RustClient_Data/Managed/Assembly-CSharp.dll":"d90c2d54eeef7109ace75f598391fca0",
 	"RustClient_Data/Managed/com.unity.postprocessing.Runtime.dll":"e4251d47c6fd7a85a8c3d7adf905b8f6",
 	"RustClient_Data/Managed/EasyAntiCheat.Client.dll":"775fa5610ccbd9aa2c2a52727ea567c0",
 	"RustClient_Data/Managed/Facepunch.Console.dll":"38cb1db50c8faf7f783b0a7604800316",
