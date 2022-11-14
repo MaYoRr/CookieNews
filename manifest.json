@@ -25,6 +25,7 @@
 	"MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser":"0d831c1264b5b32a39fa347de368fe48",
 	"Anticheat.exe": "0f00894d0c9adec8bf614c9b05b1f4e5",
 	"AC/Updater.exe": "43457513de0353b438898b1a45b0abf2",
+	"AC/GameWer_UI_CookieRust.dll":"4bf19a722de6eb64d9af89bb3f7aad1c",
 	"RustClient_Data/Managed/ApexAI.dll":"ec4327c1ce10dd142d40f0e7fdb68c52",
 	"RustClient_Data/Managed/ApexSerialization.dll":"5c19e6ac47c671071fdb07e08437450c",
 	"RustClient_Data/Managed/ApexShared.dll":"39275b17a4ffd672a676f35105a3a9d3",
