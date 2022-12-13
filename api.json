@@ -1,11 +1,18 @@
 {
 	"ManifestVersion": 3,
 	"Servers": {
-		"Official": [{
+		"Official": [
+			{
 			"Address": "62.122.215.87",
 			"Port": 9999,
 			"Tags": ""
-		}],
+		},
+		{
+			"Address": "62.122.215.87",
+			"Port": 28015,
+			"Tags": ""
+		}
+		],
 		"Banned": [
 			"138.124.186.114",
 			"185.186.143.159",
