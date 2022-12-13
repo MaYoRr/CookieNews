@@ -1,0 +1,16 @@
+[Message: Preloader] BepInEx 6.0.0-be.660 - RustClient
+[Message: Preloader] Built from commit 40bf261c9147dbc084b000504b86df26551b6719
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 2019.4.7f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Kaidoz special for TrinityProject 0.0.1]
+[Info   :Il2CppInterop] Registered mono type A5kMsrNohiDYweA8TL.UonYJt5kf4j9DCyvBR in il2cpp domain
+[Message:   BepInEx] Chainloader startup complete
