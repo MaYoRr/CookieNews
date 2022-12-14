@@ -1,0 +1,51 @@
+
+[14.12.2022 9:15:38] [Bootstrap]: Incoming Main : 5.0.5.9
+[14.12.2022 9:15:38] [Application]: ApplicationManager.Init()
+[14.12.2022 9:15:38] [Application]: ApplicationManager.InitPreInitialization()
+[14.12.2022 9:15:38] [Application]: ApplicationManager.InitPolicyAccess()
+[14.12.2022 9:15:38] [Application]: ApplicationManager.CheckPrimitivePrivilege()
+[14.12.2022 9:15:38] [Application]: ApplicationManager.CheckSteam()
+[14.12.2022 9:15:40] [UI]: UIManager.Init()
+[14.12.2022 9:15:40] [Process]: ProcessManager.Init()
+[14.12.2022 9:15:40] [Process]: ProcessManager.PreStartCheck()
+[14.12.2022 9:15:41] [Process]: ProcessManager.AntiCheatServerInit()
+[14.12.2022 9:15:41] [Key]: KeyManager.Init
+[14.12.2022 9:15:41] [Discord]: DiscordManager.Init()
+[14.12.2022 9:15:41] [Network]: NetworkManager.Init()
+[14.12.2022 9:15:41] [Application]: ApplicationManager.InitBaseAccount()
+[14.12.2022 9:15:41] [Application]: ApplicationManager.InitBaseAccount::ConnectedAccount: 76561198874259939
+[14.12.2022 9:15:41] [Application]: ApplicationManager.StartApplicationWorker()
+[14.12.2022 9:15:46] [Application]: ApplicationManager.OnApplicationInitialized()
+[14.12.2022 9:15:46] [Network]: NetworkManager.Start()
+[14.12.2022 9:15:46] [Network]: NetworkManager.OnNetworkConnected()
+[14.12.2022 9:15:46] [AntiCheat]: AntiCheatManager.OnNetworkConnected()
+[14.12.2022 9:15:47] [AntiCheat]: AntiCheatManager.OnNetworkAuthResultPacket: True
+[14.12.2022 9:15:48] [AntiCheat]: AntiCheatManager.OnNetworkProcessesSystemReady
+[14.12.2022 9:19:19] [Bootstrap]: Incoming Main : 5.0.5.9
+[14.12.2022 9:19:19] [Application]: ApplicationManager.Init()
+[14.12.2022 9:19:19] [Application]: ApplicationManager.InitPreInitialization()
+[14.12.2022 9:19:19] [Application]: ApplicationManager.InitPolicyAccess()
+[14.12.2022 9:19:19] [Application]: ApplicationManager.CheckPrimitivePrivilege()
+[14.12.2022 9:19:19] [Application]: ApplicationManager.CheckSteam()
+[14.12.2022 9:19:21] [UI]: UIManager.Init()
+[14.12.2022 9:19:21] [Process]: ProcessManager.Init()
+[14.12.2022 9:19:21] [Process]: ProcessManager.PreStartCheck()
+[14.12.2022 9:19:22] [Process]: ProcessManager.AntiCheatServerInit()
+[14.12.2022 9:19:22] [Key]: KeyManager.Init
+[14.12.2022 9:19:22] [Discord]: DiscordManager.Init()
+[14.12.2022 9:19:22] [Network]: NetworkManager.Init()
+[14.12.2022 9:19:22] [Application]: ApplicationManager.InitBaseAccount()
+[14.12.2022 9:19:22] [Application]: ApplicationManager.InitBaseAccount::ConnectedAccount: 76561198874259939
+[14.12.2022 9:19:22] [Application]: ApplicationManager.StartApplicationWorker()
+[14.12.2022 9:19:25] [UIManager]: InitThread::Shutdown
+[14.12.2022 9:19:25] [Application]: Finish...
+[14.12.2022 9:19:25] [Key]: KeyManager.Shutdown
+[14.12.2022 9:19:25] [Process]: ProcessManager.Shutdown()
+[14.12.2022 9:19:25] [Discord]: DiscordManager.Shutdown()
+[14.12.2022 9:19:25] [CustomSystem.Process32.Interface]: Exception in IncomingProcess: System.Threading.ThreadAbortException: Поток находился в процессе прерывания.
+   в 1376473980.1499388462(1126444807 1260986617)
+[14.12.2022 9:19:25] [UI]: UIManager.Shutdown()
+[14.12.2022 9:19:25] [Application]: Exception in ApplicationManager.Shutdown: System.Threading.ThreadAbortException: Поток находился в процессе прерывания.
+   в 2125301239.1668093446()
+   в 1130100690.1157474930()
+[14.12.2022 9:19:25] [Bootstrap]: End of the main thread...
