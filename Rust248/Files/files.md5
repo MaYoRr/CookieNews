@@ -1,8 +1,18 @@
 \.doorstop_version:dbdbed46
 \doorstop_config.ini:72f79fe3
 \winhttp.dll:81b530cc
+\AC\Alkad.exe:6eb39dca
+\AC\discord_game_sdk.dll:7da4ec2c
+\AC\Facepunch.Steamworks.Win64.dll:0b964683
+\AC\GameWer.Module.dll:eafa46d6
+\AC\GameWer.SDK.dll:a69f9c3a
 \AC\GameWer.UI.CookieRust.dll:0e4ca071
+\AC\GameWer.UI.Default.dll:e376310a
+\AC\Newtonsoft.Json.dll:8c432cd2
+\AC\output.log:ff0c54db
+\AC\steam_api64.dll:cc807f48
 \AC\Updater.exe:190e1d39
+\AC\websocket-sharp.dll:e6666903
 \BepInEx\ErrorLog.log:00000000
 \BepInEx\LogOutput.1.log:16c4e83e
 \BepInEx\LogOutput.log:00b262c8
@@ -359,7 +369,7 @@
 \BepInEx\interop\UnityEngine.VRModule.dll:8456a643
 \BepInEx\interop\UnityEngine.WindModule.dll:feaf172c
 \BepInEx\interop\UnityEngine.XRModule.dll:097af2b7
-\BepInEx\plugins\Rust-Mod.dll:cf65f048
+\BepInEx\plugins\Rust-Mod.dll:5e837ee8
 \BepInEx\unity-libs\UnityEngine.AccessibilityModule.dll:defe6e8e
 \BepInEx\unity-libs\UnityEngine.AIModule.dll:532feaef
 \BepInEx\unity-libs\UnityEngine.AndroidJNIModule.dll:52360313
